@@ -18,9 +18,9 @@
 
 ## About
 
-MSc student in **Systems, Networks & Telecommunications** at École Supérieure Polytechnique (UCAD, Dakar), with a **BSc in Mathematics** behind me — a background that shapes how I approach networks: structure first, then rigour, then automation.
+MSc student in **Systems, Networks & Telecommunications** at École Supérieure Polytechnique (UCAD, Dakar), with a **BSc in Mathematics** behind me. That background shapes how I approach networks: structure first, then rigour, then automation.
 
-I design infrastructure in the lab (**EVE-NG, GNS3, Packet Tracer**), harden it with firewalls, then automate it away with **Python and Ansible**. Networking, security and cloud aren't three separate tracks to me — they're the same system seen from three angles.
+I design infrastructure in the lab (**EVE-NG, GNS3, Packet Tracer**), harden it with firewalls, then automate it away with **Python and Ansible**. Networking, security and cloud are not three separate tracks to me. They are the same system seen from three angles.
 
 ```yaml
 location:     Dakar, Senegal 🇸🇳  ·  open to remote (Europe)
@@ -55,13 +55,13 @@ philosophy:   learn it, build it, document it, share it
 ![Fortinet](https://img.shields.io/badge/FortiGate-0D1117?style=flat-square&logo=fortinet&logoColor=EE3124)
 ![pfSense](https://img.shields.io/badge/pfSense-0D1117?style=flat-square&logo=pfsense&logoColor=212121)
 ![iptables](https://img.shields.io/badge/iptables_%2F_nftables-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-![OpenSSL](https://img.shields.io/badge/RSA_%2F_Diffie--Hellman-0D1117?style=flat-square&logo=letsencrypt&logoColor=003A70)
+![Crypto](https://img.shields.io/badge/RSA_%2F_Diffie--Hellman-0D1117?style=flat-square&logo=letsencrypt&logoColor=003A70)
 ![SSH](https://img.shields.io/badge/SSH_hardening-0D1117?style=flat-square&logo=openssh&logoColor=FFFFFF)
 
 **Automation & Cloud**
 
 ![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=EE0000)
-![Python](https://img.shields.io/badge/Netmiko_%2F_NAPALM-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![Netmiko](https://img.shields.io/badge/Netmiko_%2F_NAPALM-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![LXD](https://img.shields.io/badge/LXD-0D1117?style=flat-square&logo=linuxcontainers&logoColor=E95420)
 ![KVM](https://img.shields.io/badge/KVM_%2F_libvirt-0D1117?style=flat-square&logo=qemu&logoColor=FF6600)
@@ -79,11 +79,11 @@ philosophy:   learn it, build it, document it, share it
 
 | Project | What it does |
 | :--- | :--- |
-| **[interconnexion-mpls-l3vpn](https://github.com/SHERLOCKSOW/interconnexion-mpls-l3vpn)** | Multi-site MPLS L3VPN interconnection — VRF, MP-BGP, EIGRP, OSPF/LDP core and MD5 authentication |
+| **[interconnexion-mpls-l3vpn](https://github.com/SHERLOCKSOW/interconnexion-mpls-l3vpn)** | Multi-site MPLS L3VPN interconnection with VRF, MP-BGP, EIGRP, an OSPF/LDP core and MD5 authentication |
 | **[lab-ansible-hybrid-infra](https://github.com/SHERLOCKSOW/lab-ansible-hybrid-infra)** | Hybrid infrastructure: Cisco routers, pfSense firewall, Debian/Alpine servers and a cloud VPS, fully driven by Ansible |
-| **[lab-ansible-automation](https://github.com/SHERLOCKSOW/lab-ansible-automation)** | Multi-server automation (VPS + LXD) — inventories, playbooks and timestamped backups |
+| **[lab-ansible-automation](https://github.com/SHERLOCKSOW/lab-ansible-automation)** | Multi-server automation (VPS + LXD) with inventories, playbooks and timestamped backups |
 | **[Apache-Spark](https://github.com/SHERLOCKSOW/Apache-Spark)** | Batch and streaming data processing on a Hadoop/YARN cluster |
-| **[detection-de-malware](https://github.com/SHERLOCKSOW/detection-de-malware)** | Malware detection — academic research on defensive analysis techniques |
+| **[detection-de-malware](https://github.com/SHERLOCKSOW/detection-de-malware)** | Malware detection: academic research on defensive analysis techniques |
 
 > Most projects ship with a full technical report (LaTeX) documenting the topology, the design choices and the validation tests.
 
@@ -108,13 +108,13 @@ philosophy:   learn it, build it, document it, share it
 
 ## Beyond the terminal
 
-**♟️ Chess** — the same instinct as network design: read the whole board, think several moves ahead, accept that elegance beats brute force.
+**♟️ Chess.** The same instinct as network design: read the whole board, think several moves ahead, accept that elegance beats brute force.
 
-**📐 Mathematics** — a BSc in Maths before engineering. Finite-difference solvers, algorithms and probability still sit in my repos, and they still shape how I debug.
+**📐 Mathematics.** A BSc in Maths before engineering. Finite-difference solvers, algorithms and probability still sit in my repos, and they still shape how I debug.
 
-**🌱 Environment** — over 100 trees planted, and counting. Infrastructure should be built to last; so should everything else.
+**🌱 Environment.** Over 100 trees planted, and counting. Infrastructure should be built to last, and so should everything else.
 
-**🎓 Teaching & sharing** — former maths tutor and teaching assistant. I write technical articles and record short explainers, because the fastest way to check that you understand something is to explain it to someone else.
+**🎓 Teaching & sharing.** Former maths tutor and teaching assistant. I write technical articles and record short explainers, because the fastest way to check that you understand something is to explain it to someone else.
 
 ---
 
@@ -125,7 +125,7 @@ philosophy:   learn it, build it, document it, share it
 
 <br><br>
 
-**Open to internships and collaboration — networking, security, automation.**
+**Open to internships and collaboration in networking, security and automation.**
 
 [![Portfolio](https://img.shields.io/badge/moussasow.pro-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://www.moussasow.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/moussa-sow-60426a379)
