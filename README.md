@@ -23,7 +23,7 @@ MSc student in **Systems, Networks & Telecommunications** at École Supérieure 
 I design infrastructure in the lab (**EVE-NG, GNS3, Packet Tracer**), harden it with firewalls, then automate it away with **Python and Ansible**. Networking, security and cloud are not three separate tracks to me. They are the same system seen from three angles.
 
 ```yaml
-location:     Dakar, Senegal 🇸🇳  ·  open to remote (Europe)
+location:     Dakar, Senegal 🇸🇳  ·  open to remote 
 focus:        network automation · cybersecurity · cloud infrastructure
 next_up:      CCNA 200-301 (Oct 2026) · CompTIA Security+
 languages:    French (native) · English (B2+)
