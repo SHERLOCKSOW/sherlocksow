@@ -2,7 +2,7 @@
 
 # Moussa Sow
 
-**Network Automation & Cybersecurity Engineer** *(in training)*
+**CLOUD ENGINEER & NETWORK AUTOMATION** 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Routing+%26+Switching+%E2%80%A2+MPLS+%E2%80%A2+Automation;Ansible+%E2%80%A2+Python+%E2%80%A2+Infrastructure+as+Code;Firewalls+%E2%80%A2+Cloud+%E2%80%A2+Security+by+design" alt="typing" />
 
