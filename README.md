@@ -2,133 +2,73 @@
 
 # Moussa Sow
 
-**CLOUD ENGINEER & NETWORK AUTOMATION** 
+### Ingénieur Infrastructure, Cloud & AIOps
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Routing+%26+Switching+%E2%80%A2+MPLS+%E2%80%A2+Automation;Ansible+%E2%80%A2+Python+%E2%80%A2+Infrastructure+as+Code;Firewalls+%E2%80%A2+Cloud+%E2%80%A2+Security+by+design" alt="typing" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2650A3&center=true&vCenter=true&width=720&lines=Infrastructure+as+Code+%C2%B7+Terraform;Multi-cloud+%C2%B7+GCP+%26+AWS;Kubernetes+%C2%B7+Docker+%C2%B7+GitLab+CI;MLOps+%26+AIOps+%C2%B7+mod%C3%A8les+en+production)](https://moussasow.pro)
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-moussasow.pro-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://www.moussasow.pro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moussa_Sow-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/moussa-sow-60426a379)
-[![Email](https://img.shields.io/badge/Email-sow49986@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sow49986@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-moussasow.pro-2650A3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moussasow.pro)
+[![English](https://img.shields.io/badge/Portfolio-English-2650A3?style=for-the-badge)](https://moussasow.pro/en/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moussa_Sow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-sow-60426a379)
+[![Medium](https://img.shields.io/badge/Medium-@sow49986-111111?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sow49986)
 
 </div>
 
 ---
 
-## About
+## À propos
 
-MSc student in **Systems, Networks & Telecommunications** at École Supérieure Polytechnique (UCAD, Dakar), with a **BSc in Mathematics** behind me. That background shapes how I approach networks: structure first, then rigour, then automation.
+Stagiaire en infrastructures chez **InTouch** depuis septembre 2026, élève ingénieur en Systèmes, Réseaux et Télécommunications à l'**ESP de Dakar** (Master 2).
+Je conçois, déploie et maintiens des environnements **multi-cloud (GCP et AWS)**, décrits en **Terraform** et livrés par pipelines **GitLab CI**. Je m'intéresse aussi à l'IA en production : déployer des modèles, les superviser et les maintenir (**MLOps, AIOps**).
 
-I design infrastructure in the lab (**EVE-NG, GNS3, Packet Tracer**), harden it with firewalls, then automate it away with **Python and Ansible**. Networking, security and cloud are not three separate tracks to me. They are the same system seen from three angles.
+> Je suis passé des mathématiques aux réseaux, puis au cloud, avec la même exigence : comprendre avant d'utiliser.
 
-```yaml
-location:     Dakar, Senegal 🇸🇳  ·  open to remote 
-focus:        network automation · cybersecurity · cloud infrastructure
-next_up:      CCNA 200-301 (Oct 2026) · CompTIA Security+
-languages:    French (native) · English (B2+)
-philosophy:   learn it, build it, document it, share it
-```
+*English: infrastructure and cloud engineer working on multi-cloud (GCP, AWS), Infrastructure as Code and MLOps. Master's student in network and telecom engineering in Dakar, Senegal.*
 
----
+## Ce sur quoi je travaille
 
-## Tech & Tools
+| | |
+|---|---|
+| **Infrastructure** | Compute Engine, VPC, load balancing, autoscaling, systèmes distribués, déploiement et maintenance |
+| **Infrastructure as Code** | Terraform, templates Jinja2, Ansible, revue et versionnage dans Git |
+| **Conteneurs** | Docker, Kubernetes (GKE), déploiements, services, mise à l'échelle |
+| **CI/CD** | Pipelines GitLab CI : build, tests, déploiement, retour arrière |
+| **AIOps et MLOps** | Déploiement de modèles (Vertex AI, Cloud Run, GKE), suivi en production, réentraînement |
+| **Réseaux** | CCNA, OSPF, BGP, MPLS L3VPN, labs EVE-NG et GNS3 |
+
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,ubuntu,ansible,docker,git,github,vscode,latex&theme=dark" alt="tools" />
+![GCP](https://skillicons.dev/icons?i=gcp,aws,terraform,kubernetes,docker,gitlab,git,ansible&perline=8)
+![Langages](https://skillicons.dev/icons?i=python,bash,flask,sqlite,linux,ubuntu,github,vscode&perline=8)
 
 </div>
 
-**Networking**
+## Certifications et badges
 
-![Cisco](https://img.shields.io/badge/Cisco-0D1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
-![OSPF](https://img.shields.io/badge/OSPF-0D1117?style=flat-square)
-![BGP](https://img.shields.io/badge/BGP_%2F_MP--BGP-0D1117?style=flat-square)
-![EIGRP](https://img.shields.io/badge/EIGRP-0D1117?style=flat-square)
-![MPLS](https://img.shields.io/badge/MPLS_L3VPN-0D1117?style=flat-square)
-![VLAN](https://img.shields.io/badge/VLAN_%2F_VRF-0D1117?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Terraform-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://moussasow.pro/#certifications)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Load_Balancing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://moussasow.pro/#certifications)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Kubernetes-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://moussasow.pro/#certifications)
+![Cisco](https://img.shields.io/badge/Cisco-CCNA_SRWE_%C2%B7_ENSA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-NSE_1_%C2%B7_2_%C2%B7_3-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 
-**Security & Firewalls**
+En préparation : **Google Cloud Associate Cloud Engineer**, **CCNA 200-301**, **AWS Solutions Architect Associate**.
 
-![Fortinet](https://img.shields.io/badge/FortiGate-0D1117?style=flat-square&logo=fortinet&logoColor=EE3124)
-![pfSense](https://img.shields.io/badge/pfSense-0D1117?style=flat-square&logo=pfsense&logoColor=212121)
-![iptables](https://img.shields.io/badge/iptables_%2F_nftables-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Crypto](https://img.shields.io/badge/RSA_%2F_Diffie--Hellman-0D1117?style=flat-square&logo=letsencrypt&logoColor=003A70)
-![SSH](https://img.shields.io/badge/SSH_hardening-0D1117?style=flat-square&logo=openssh&logoColor=FFFFFF)
-
-**Automation & Cloud**
-
-![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=EE0000)
-![Netmiko](https://img.shields.io/badge/Netmiko_%2F_NAPALM-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![LXD](https://img.shields.io/badge/LXD-0D1117?style=flat-square&logo=linuxcontainers&logoColor=E95420)
-![KVM](https://img.shields.io/badge/KVM_%2F_libvirt-0D1117?style=flat-square&logo=qemu&logoColor=FF6600)
-![Spark](https://img.shields.io/badge/Apache_Spark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
-
-**Lab environments**
-
-![EVE-NG](https://img.shields.io/badge/EVE--NG-0D1117?style=flat-square)
-![GNS3](https://img.shields.io/badge/GNS3-0D1117?style=flat-square&logo=gnome-terminal&logoColor=8BC34A)
-![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0D1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
-
----
-
-## Featured projects
-
-| Project | What it does |
-| :--- | :--- |
-| **[interconnexion-mpls-l3vpn](https://github.com/SHERLOCKSOW/interconnexion-mpls-l3vpn)** | Multi-site MPLS L3VPN interconnection with VRF, MP-BGP, EIGRP, an OSPF/LDP core and MD5 authentication |
-| **[lab-ansible-hybrid-infra](https://github.com/SHERLOCKSOW/lab-ansible-hybrid-infra)** | Hybrid infrastructure: Cisco routers, pfSense firewall, Debian/Alpine servers and a cloud VPS, fully driven by Ansible |
-| **[lab-ansible-automation](https://github.com/SHERLOCKSOW/lab-ansible-automation)** | Multi-server automation (VPS + LXD) with inventories, playbooks and timestamped backups |
-| **[Apache-Spark](https://github.com/SHERLOCKSOW/Apache-Spark)** | Batch and streaming data processing on a Hadoop/YARN cluster |
-| **[detection-de-malware](https://github.com/SHERLOCKSOW/detection-de-malware)** | Malware detection: academic research on defensive analysis techniques |
-
-> Most projects ship with a full technical report (LaTeX) documenting the topology, the design choices and the validation tests.
-
----
-
-## Certifications
+## Statistiques
 
 <div align="center">
 
-![CCNA SRWE](https://img.shields.io/badge/Cisco-CCNA_SRWE-0D1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
-![CCNA ENSA](https://img.shields.io/badge/Cisco-CCNA_ENSA-0D1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
-![NSE1](https://img.shields.io/badge/Fortinet-NSE_1-0D1117?style=flat-square&logo=fortinet&logoColor=EE3124)
-![NSE2](https://img.shields.io/badge/Fortinet-NSE_2-0D1117?style=flat-square&logo=fortinet&logoColor=EE3124)
-![NSE3](https://img.shields.io/badge/Fortinet-NSE_3-0D1117?style=flat-square&logo=fortinet&logoColor=EE3124)
-![FortiGate Operator](https://img.shields.io/badge/Fortinet-FortiGate_7.6_Operator-0D1117?style=flat-square&logo=fortinet&logoColor=EE3124)
+[![Stats](https://github-readme-stats.vercel.app/api?username=SHERLOCKSOW&show_icons=true&hide_border=true&theme=default&title_color=2650A3&icon_color=2650A3&count_private=true)](https://github.com/SHERLOCKSOW)
+[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHERLOCKSOW&layout=compact&hide_border=true&title_color=2650A3)](https://github.com/SHERLOCKSOW)
 
-*In progress: CCNA 200-301 · CompTIA Security+ · Cisco DevNet Associate*
+[![Streak](https://streak-stats.demolab.com?user=SHERLOCKSOW&hide_border=true&ring=2650A3&fire=2650A3&currStreakLabel=2650A3)](https://github.com/SHERLOCKSOW)
 
 </div>
 
----
+## Projets à voir
 
-## Beyond the terminal
+Les projets détaillés (labs réseau, infrastructure, IA, plateforme web) sont présentés avec leurs schémas sur le portfolio : **[moussasow.pro/#projets](https://moussasow.pro/#projets)**.
 
-**♟️ Chess.** The same instinct as network design: read the whole board, think several moves ahead, accept that elegance beats brute force.
+## Me contacter
 
-**📐 Mathematics.** A BSc in Maths before engineering. Finite-difference solvers, algorithms and probability still sit in my repos, and they still shape how I debug.
-
-**🌱 Environment.** Over 100 trees planted, and counting. Infrastructure should be built to last, and so should everything else.
-
-**🎓 Teaching & sharing.** Former maths tutor and teaching assistant. I write technical articles and record short explainers, because the fastest way to check that you understand something is to explain it to someone else.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SHERLOCKSOW&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHERLOCKSOW&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="160" />
-
-<br><br>
-
-**Open to internships and collaboration in networking, security and automation.**
-
-[![Portfolio](https://img.shields.io/badge/moussasow.pro-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://www.moussasow.pro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/moussa-sow-60426a379)
-[![Mail](https://img.shields.io/badge/Mail-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:sow49986@gmail.com)
-
-</div>
+Pour échanger sur le cloud, l'infrastructure ou l'automatisation, à Dakar ou en remote : [LinkedIn](https://www.linkedin.com/in/moussa-sow-60426a379) ou via le [portfolio](https://moussasow.pro/#contact).
